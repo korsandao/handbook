@@ -2,46 +2,20 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome! KorsanDAO is a guild consisted of some of the most talented people in the tech scene today. The best designers, developers and builders in the world meet here. This is the place to learn about how it all works, and how you can join the fun.
 
-## Getting Started
+You can always join our **[Discord](https://discord.com/korsandao)** to check out how it all comes together and interact with us! You don’t have to start project hunting right away, we would be very happy to answer your questions, and just hang out!
 
-Get started by **creating a new site**.
+## How it works
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+KorsanDAO is digital agency that’s worker-owned and worker-managed. We believe everyone is entitled to fruits of their labor. The DAO is structured in a way to make sure everyone, both you and the customer, is satisfied with the process to the maximum possible extent.
 
-### What you'll need
+If you want to try out being a Recruit, then the process begins with you either applying for a project or being assigned one. You will be expected to log your accomplishments and time spent on your assigned project.
 
-- [Node.js](https://nodejs.org/en/download/) version 14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Financials
 
-## Generate a new site
+When a project is completed and the payment is received by the DAO, everyone with logged hours in the project will be paid out from the pool. First, 10% of the total payout is transferred to the DAO treasury, and in return you get shares. We still split 100% of the money, essentially, but you receive 10% as stocks. You can, at any time, ragequit and receive the equivalent cash amount of your shares. This ensures freedom for all of our contributors: If you need to cash out your shares, you can do it whenever you want, but also you can stay invested in the DAO; it’s totally up to you.
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Our clients pay us directly with crypto, and the DAO directly transfers these funds to the contributors, so you also get paid in crypto.
