@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'KorsanDAO Docs',
   tagline: 'Learn about how KorsanDAO works!',
-  url: 'https://docs.korsandao.com',
+  url: 'https://' + process.env.VERCEL_URL,
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
