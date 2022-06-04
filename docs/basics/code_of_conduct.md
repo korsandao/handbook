@@ -6,7 +6,7 @@ sidebar_position: 6
 
 KorsanDAO is digital agency that’s worker-owned and worker-managed. We believe everyone is entitled to fruits of their labor. The DAO is structured in a way to make sure everyone, both you and the customer, is satisfied with the process to the maximum possible extent. To ensure the best experience for everyone, we have agreed upon certain core values that are crucial for the operation of the DAO. These are:
 
-## <!-- TODO please contribute-->
+<!-- TODO please contribute-->
 
 - **Tolerance**: We do not discriminate against or judge anyone. We expect everyone to be respectful to each other and be understanding.
 
@@ -15,4 +15,4 @@ KorsanDAO is digital agency that’s worker-owned and worker-managed. We believe
 - **Solidarity**: We’re all in this together. Every member of KorsanDAO has your back. You can ask anyone for help.
 <!-- TODO please contribute-->
 
-If you want to try out being a Recruit, then the process begins with you either applying for a project or being assigned one. You will be expected to log your accomplishments and time spent on your assigned project.
+_If you think there's something missing or if you just have ideas, you're highly encouraged to [open a issue on Github](https://github.com/korsandao/handbook/issues/new) and contribute! You can also edit any part of the documentation and request changes below._
