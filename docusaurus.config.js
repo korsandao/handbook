@@ -84,7 +84,7 @@ const config = {
             items: [
               {
                 label: 'Basics',
-                to: '/docs/basics/code-of-conduct',
+                to: '/docs/basics/code_of_conduct',
               },
             ],
           },
