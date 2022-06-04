@@ -112,14 +112,10 @@ const config = {
                 label: 'Website',
                 href: 'https://korsandao.com',
               },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
             ],
           },
         ],
-        copyright: `${new Date().getFullYear()}, KorsanDAO`,
+        copyright: `${new Date().getFullYear()} - KorsanDAO`,
       },
       prism: {
         theme: lightCodeTheme,
