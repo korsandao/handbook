@@ -70,6 +70,12 @@ const config = {
             label: 'Basics',
           },
           {
+            type: 'doc',
+            docId: 'join/initial_steps',
+            position: 'left',
+            label: 'Join',
+          },
+          {
             href: 'https://github.com/korsandao/handbook',
             label: 'GitHub',
             position: 'right',
@@ -85,6 +91,15 @@ const config = {
               {
                 label: 'Basics',
                 to: '/docs/basics/code_of_conduct',
+              },
+            ],
+          },
+          {
+            title: 'Docs',
+            items: [
+              {
+                label: 'Join',
+                to: '/docs/join/initial_steps',
               },
             ],
           },
