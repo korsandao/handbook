@@ -71,7 +71,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'join/initial_steps',
+            docId: 'join/collaborating',
             position: 'left',
             label: 'Join',
           },
@@ -99,7 +99,7 @@ const config = {
             items: [
               {
                 label: 'Join',
-                to: '/docs/join/initial_steps',
+                to: '/docs/join/collaborating',
               },
             ],
           },

@@ -1,10 +1,10 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Initial Steps
 
-Good to see you! If you want to try out being a recruit, then the process begins here.
+If you want to try out being a recruit, then the process begins here.
 
 We'll assume you have already joined our [Discord](discord.com/korsandao) server. If not, hop on and say hello.
 
